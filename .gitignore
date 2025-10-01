@@ -7,6 +7,7 @@ wheels/
 images/
 image_bk/
 pgdata/
+od_model/
 
 *.egg-info
 decode_image.jpg

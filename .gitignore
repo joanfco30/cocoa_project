@@ -13,3 +13,4 @@ pgdata/
 # Virtual environments
 .venv
 .vscode
+.env

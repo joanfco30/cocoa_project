@@ -9,7 +9,7 @@ image_bk/
 pgdata/
 
 *.egg-info
-
+decode_image.jpg
 # Virtual environments
 .venv
 .vscode
